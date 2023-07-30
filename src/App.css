@@ -131,7 +131,7 @@ ul {
   font-family: "Karla", sans-serif;
   font-size: 22px;
   color: #fff;
-  width: 350px;
+
 }
 
 @media (max-width: 800px) {
@@ -179,14 +179,14 @@ ul {
 
 h1 {
   font-family: "Markazi Text", serif;
-  font-size: 60px;
+  font-size: 48px;
   font-weight: 700;
   color: #f4ce14;
 }
 
 h2 {
   font-family: "Markazi Text", serif;
-  font-size: 30px;
+  font-size: 28px;
   color: #fff;
   margin-top: -1.5em;
 }
