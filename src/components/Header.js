@@ -4,7 +4,7 @@ import Nav from "./Nav";
 import logo from "../assets/Logo.png";
 
 
-function Header() {
+export default function Header() {
   return (
     <>
       <div className="header">
@@ -20,4 +20,3 @@ function Header() {
   );
 }
 
-export default Header;
