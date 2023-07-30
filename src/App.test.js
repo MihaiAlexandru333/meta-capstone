@@ -76,7 +76,7 @@ test("check form inputs", () => {
 function setBookingData() {}
 
 test("check for input change", async () => {
-  const user = userEvent.default.setup();
+
 
   render(
     <Router>
